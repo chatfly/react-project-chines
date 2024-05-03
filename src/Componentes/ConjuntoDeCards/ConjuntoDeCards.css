@@ -1,0 +1,48 @@
+.PrincipalCards{
+    background-color: white;
+    height: 574px;
+    width: 100%;
+}
+
+.PrincipalCards h2{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 50px;
+    margin-left: 62px;
+    margin-bottom: 47px;
+}
+
+.DivCards{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+}
+
+.DivCards a{
+    color: #B05C5C;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 338px;
+    margin-left: 38px;
+}
+
+.Foto1{
+    width: 265px;
+    height: 360px;
+    background-image: url(/public/Imagens/jair.png);
+    margin-right: 57px;
+}
+
+.Foto2{
+    width: 265px;
+    height: 360px;
+    background-image: url(/public/Imagens/maotse.png);
+    margin-right: 57px;
+}
+
+.Foto3{
+    width: 265px;
+    height: 360px;
+    background-image: url(/public/Imagens/cena.png);
+}
