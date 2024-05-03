@@ -10,6 +10,12 @@
     width: 100%;
 }
 
+.imgCabecalho{
+    width: 174px;
+    height: 91px;
+    border-radius: 15px;
+}
+
 .header{
     margin-top: 40px;
 }
