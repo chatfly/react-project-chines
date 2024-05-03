@@ -1,0 +1,19 @@
+.Cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    height: 105px;
+}
+
+.header{
+    margin-top: 40px;
+}
+
+.img{
+    height: 85px;
+    margin-top: 10px;
+}
