@@ -1,0 +1,29 @@
+.FooterPrincipal{
+    background-color: #CABB3A;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.Logo1{
+    width: 55.5px;
+    height: 55.5px;
+    background-image: url(/public/Imagens/Instagram.png);
+    margin-right: 6.7px;
+}
+
+.Logo2{
+    width: 55.5px;
+    height: 55.5px;
+    background-image: url(/public/Imagens/TikTok.png);
+    margin-right: 6.7px;
+}
+
+.Logo3{
+    width: 55.5px;
+    height: 55.5px;
+    background-image: url(/public/Imagens/WhatsApp.png);
+    margin-right: 35px;
+}

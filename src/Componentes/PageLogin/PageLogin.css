@@ -1,10 +1,27 @@
 .MainPage{
     background-size: 100% 100%;
     background-image: url(/public/Imagens/backgroundImage.png);
-    width: 100vw;
     height: 440px;
     -webkit-box-shadow: inset 140px 17px 162px 0px rgba(0,0,0,0.45);
     -moz-box-shadow: inset 140px 17px 162px 0px rgba(0,0,0,0.45);
     box-shadow: inset 140px 17px 162px 0px rgba(0,0,0,0.45);
     background-attachment: fixed;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.CountryBall{
+    height: 400px;
+    width: 370px;
+    background-image: url(/public/Imagens/countryball.png);
+}
+
+.SocialCredit{
+    height: 116px;
+    width: 225px;
+    border-radius: 35px;
+    background-image: url(/public/Imagens/social.png);
+    background-repeat: no-repeat;
 }

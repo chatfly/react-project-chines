@@ -2,6 +2,7 @@
     background-color: white;
     height: 574px;
     width: 100%;
+    background-size: 100% 100%;
 }
 
 .PrincipalCards h2{
@@ -27,11 +28,17 @@
     margin-left: 38px;
 }
 
+.DivCards a:hover{
+    color: rgb(195, 195, 23);
+    text-decoration: none;
+}
+
 .Foto1{
     width: 265px;
     height: 360px;
     background-image: url(/public/Imagens/jair.png);
     margin-right: 57px;
+    border-radius: 14px;
 }
 
 .Foto2{
@@ -39,10 +46,12 @@
     height: 360px;
     background-image: url(/public/Imagens/maotse.png);
     margin-right: 57px;
+    border-radius: 14px;
 }
 
 .Foto3{
     width: 265px;
     height: 360px;
     background-image: url(/public/Imagens/cena.png);
+    border-radius: 14px;
 }

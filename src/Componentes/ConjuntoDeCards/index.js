@@ -8,7 +8,7 @@ function ConjuntoDeCards(props){
                 <div className='Foto1'></div>
                 <div className='Foto2'></div>
                 <div className='Foto3'></div>
-                <a href="/public">VER MAIS</a>
+                <a href="#">VER MAIS</a>
             </div>
         </div>
     )
