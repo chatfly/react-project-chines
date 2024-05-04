@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-project-chines/static/css/main.c95e35a4.css",
+    "main.js": "/react-project-chines/static/js/main.1c2aae4e.js",
+    "static/media/banner.png": "/react-project-chines/static/media/banner.3effc9632e20f53c3295.png",
+    "static/media/cena.png": "/react-project-chines/static/media/cena.9c4b9009e982f57dccb4.png",
+    "static/media/jair.png": "/react-project-chines/static/media/jair.2c20e01c47805bdc27ae.png",
+    "static/media/maotse.png": "/react-project-chines/static/media/maotse.5c30ad271fff602ff335.png",
+    "static/media/social.png": "/react-project-chines/static/media/social.f41afddefa5dbdd1e70a.png",
+    "static/media/backgroundImage.png": "/react-project-chines/static/media/backgroundImage.3b54240ae784d23cb28b.png",
+    "index.html": "/react-project-chines/index.html",
+    "main.c95e35a4.css.map": "/react-project-chines/static/css/main.c95e35a4.css.map",
+    "main.1c2aae4e.js.map": "/react-project-chines/static/js/main.1c2aae4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95e35a4.css",
+    "static/js/main.1c2aae4e.js"
+  ]
+}
